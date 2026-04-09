@@ -41,3 +41,5 @@ O projeto desse repositório foi desenvolvido por [Alura](https://www.alura.com.
 Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira)
 
 ---
+
+Utilizado para estudar testes automatizados.
