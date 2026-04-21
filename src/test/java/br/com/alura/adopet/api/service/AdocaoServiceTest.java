@@ -26,6 +26,7 @@ class AdocaoServiceTest {
 
     @InjectMocks
     private AdocaoService service;
+
     @Mock
     private AdocaoRepository repository;
 
